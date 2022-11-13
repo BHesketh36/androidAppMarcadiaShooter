@@ -1,0 +1,15 @@
+API 22: Android 5.1 (Lolipop)
+
+app > src > main > java > com > example >
+androidstudio2dgamedevelopment > MainActivity.java
+
+
+Physical Device
+---------------
+Samsung SM-G950F
+(Samsung Galaxy S8)
+
+TUTORIAL SERIES FOLLOWED FOR GUIDANCE BY Alex Bükk
+==================================================
+Channel - https://www.youtube.com/channel/UCDZfXcIPBS3lOVvSPZwvY3A
+
